@@ -19,7 +19,7 @@ numpy==2.3.1
 opencv-python==4.8.1.78
 packaging==24.0
 pandas==2.2.3
-Pillow==9.5.0
+Pillow==9.5.0 --only-binary=:all:
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 python-dotenv==0.21.1
